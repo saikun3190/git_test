@@ -1,0 +1,11 @@
+C:\Users\saiku\Documents\vscode\git_test\bin\Debug\netcoreapp2.1\git_test.deps.json
+C:\Users\saiku\Documents\vscode\git_test\bin\Debug\netcoreapp2.1\git_test.runtimeconfig.json
+C:\Users\saiku\Documents\vscode\git_test\bin\Debug\netcoreapp2.1\git_test.runtimeconfig.dev.json
+C:\Users\saiku\Documents\vscode\git_test\bin\Debug\netcoreapp2.1\git_test.dll
+C:\Users\saiku\Documents\vscode\git_test\bin\Debug\netcoreapp2.1\git_test.pdb
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.csprojAssemblyReference.cache
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.csproj.CoreCompileInputs.cache
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.AssemblyInfoInputs.cache
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.AssemblyInfo.cs
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.dll
+C:\Users\saiku\Documents\vscode\git_test\obj\Debug\netcoreapp2.1\git_test.pdb
